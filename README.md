@@ -1,7 +1,7 @@
 # A simple Laravel 9 blog api 
 
 ## Deployed 
-[https://laravel-blog-api-example.herokuapp.com/]https://laravel-blog-api-example.herokuapp.com/api/articles
+[https://laravel-blog-api-example.herokuapp.com/](https://laravel-blog-api-example.herokuapp.com/api/articles)
 
 ## AVAILABLE ROUTES 
 
